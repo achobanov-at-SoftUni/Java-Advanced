@@ -1,0 +1,4 @@
+5,Math 2.50 3.00 4.20,Literature 2.00 5.25
+5,Math 2.30 4.00 5.50,Literature 6.00 4.50
+5,Math 4.10 2.00 4.00,Literature 3.00 3,20
+5,Math 3.60 2.00 3.60,Literature 4.50 5.00
